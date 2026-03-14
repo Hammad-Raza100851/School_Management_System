@@ -1,0 +1,98 @@
+{
+    "ics_1st": {
+        "subject": [
+            "english",
+            "math",
+            "physics",
+            "computer",
+            "urdu",
+            "islamiat"
+        ],
+        "students_info": {
+            "1": {
+                "name": "ali",
+                "father_name": "raza"
+            },
+            "2": {
+                "name": "ali",
+                "father_name": "raza"
+            },
+            "3": {
+                "name": "ali",
+                "father_name": "raza"
+            }
+        }
+    },
+    "fcs_1st": {
+        "subject": [
+            "english",
+            "biology",
+            "physics",
+            "chemistry",
+            "urdu",
+            "islamiat"
+        ],
+        "students_info": {
+            "1": {
+                "name": "ali",
+                "father_name": "raza"
+            },
+            "2": {
+                "name": "ali",
+                "father_name": "raza"
+            },
+            "3": {
+                "name": "ali",
+                "father_name": "raza"
+            }
+        }
+    },
+    "ics_2nd": {
+        "subject": [
+            "english",
+            "math",
+            "physics",
+            "computer",
+            "urdu",
+            "islamiat"
+        ],
+        "students_info": {
+            "1": {
+                "name": "ali",
+                "father_name": "raza"
+            },
+            "2": {
+                "name": "ali",
+                "father_name": "raza"
+            },
+            "3": {
+                "name": "ali",
+                "father_name": "raza"
+            }
+        }
+    },
+    "fcs_2nd": {
+        "subject": [
+            "english",
+            "biology",
+            "physics",
+            "chemistry",
+            "urdu",
+            "islamiat"
+        ],
+        "students_info": {
+            "1": {
+                "name": "ali",
+                "father_name": "raza"
+            },
+            "2": {
+                "name": "ali",
+                "father_name": "raza"
+            },
+            "3": {
+                "name": "ali",
+                "father_name": "raza"
+            }
+        }
+    }
+}

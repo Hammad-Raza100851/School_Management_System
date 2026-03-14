@@ -1,0 +1,26 @@
+{
+      "math": {
+            "teacher_name": "sir_arshad",
+            "salary": "150000"
+      },
+      "biology": {
+            "teacher_name": "sir_aftab",
+            "salary": "100000"
+      },
+      "computer": {
+            "teacher_name": "sir_adnan",
+            "salary": "100000"
+      },
+      "english": {
+            "teacher_name": "sir_jaffar",
+            "salary": "100000"
+      },
+      "urdu": {
+            "teacher_name": "sir_nadir",
+            "salary": "100000"
+      },
+      "islamiat": {
+            "teacher_name": "sir_ahmad",
+            "salary": "100000"
+      }
+}
