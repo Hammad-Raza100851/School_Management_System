@@ -33,15 +33,6 @@ Admin	Manage students
 
 Principal	Manage teachers and salaries
 
---->Project Structure
-School-Management-System
-│
-├── main.py            # Contains SMS class and system logic
-├── run.py             # Runs the program and menu system
-├── students.json      # Student database
-├── teacher.json       # Teacher database
-└── README.md
-
 --->Technologies Used
 
 Python
@@ -50,7 +41,10 @@ JSON (for database storage)
 
 Command Line Interface (CLI)
 
---->Example Data Structure
+--->Example 
+
+Data Structure
+
 Student File
 {
   "ics_1st": {
