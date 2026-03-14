@@ -69,14 +69,15 @@ Teacher File
 
 Clone the repository
 
-git clone https://github.com/yourusername/school-management-system.git
+git clone https://github.com/Hammad-Raza100851/school-management-system.git
 
 Open the project folder
 
 Run the program
 
 python run.py
-Future Improvements
+
+--->Future Improvements
 
 Student marks system
 
